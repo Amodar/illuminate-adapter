@@ -1,5 +1,5 @@
 {
-    "name": "cache/illuminate-adapter",
+    "name": "amodar/illuminate-adapter",
     "description": "A PSR-6 cache implementation using Illuminate. This implementation supports tags",
     "type": "library",
     "license": "MIT",
