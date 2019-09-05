@@ -1,4 +1,4 @@
-# Illuminate PSR-6 Cache pool 
+# Illuminate PSR-6 Cache pool (laravel 6 support)
 [![Gitter](https://badges.gitter.im/php-cache/cache.svg)](https://gitter.im/php-cache/cache?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![Latest Stable Version](https://poser.pugx.org/cache/illuminate-adapter/v/stable)](https://packagist.org/packages/cache/illuminate-adapter)
 [![codecov.io](https://codecov.io/github/php-cache/illuminate-adapter/coverage.svg?branch=master)](https://codecov.io/github/php-cache/illuminate-adapter?branch=master)
