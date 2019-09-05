@@ -1,5 +1,3 @@
-# Will delete this repo once Illuminate-adapter supports Laravel 6
-
 # Illuminate PSR-6 Cache pool 
 [![Gitter](https://badges.gitter.im/php-cache/cache.svg)](https://gitter.im/php-cache/cache?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![Latest Stable Version](https://poser.pugx.org/cache/illuminate-adapter/v/stable)](https://packagist.org/packages/cache/illuminate-adapter)
